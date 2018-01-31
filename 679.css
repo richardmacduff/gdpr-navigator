@@ -1,0 +1,26 @@
+/* lo sfondo paglierino aumenta il contrasto percepito */
+body { margin: 10%; text-align: left; font-size: medium; font-family: serif; background: #ffffaa;}
+h1, h2, h3, h4, h5, h6 {text-align: center; font-family: sans-serif;}
+h1 { font-size: 200%}
+h2 { font-size: 150%}
+
+/* al disotto dei Capi, tutti i titoli hanno eguale dimensione (gli articoli sono sia h3 ch3 h4)*/
+h3, h4, h5, h6 {font-size: 120%;}
+
+/*i link e le ancore dei commi in sans-serif */
+.citation-reference, .fn-backref {font-family: sans-serif;}
+
+/* interlinea più delicato per gli occhi */
+p {line-height: 130%;}
+
+/* spazia un po' di più le liste , inclusa la toc */
+ul li {padding-bottom: 3pt;}
+
+a.footnote-ref { vertical-align: super; }
+
+em { font-style: italic;}
+strong {font-style: bold;}
+
+/* mantiene le lettere dei commi e le spazia di più fra loro */
+ol.loweralpha {list-style-type: lower-alpha;}
+ol.loweralpha li {padding-bottom: 5pt;}
