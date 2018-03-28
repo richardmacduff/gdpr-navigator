@@ -24,3 +24,6 @@ strong {font-style: bold;}
 /* mantiene le lettere dei commi e le spazia di più fra loro */
 ol.loweralpha {list-style-type: lower-alpha;}
 ol.loweralpha li {padding-bottom: 5pt;}
+
+/*spaziare meglio i considerando*/
+table {margin-bottom:6pt;}
