@@ -1,5 +1,5 @@
 /* lo sfondo paglierino aumenta il contrasto percepito */
-body { margin: 10%; text-align: left; font-size: medium; font-family: serif; background: #ffffaa;}
+body { margin: 10%; text-align: left; font-size: medium; font-family: "IBM Plex Sans Condensed", Verdana, sans-serif; background: #ffffaa;}
 h1, h2, h3, h4, h5, h6 {text-align: center; font-family: sans-serif;}
 h1 { font-size: 200%}
 h2 { font-size: 150%}
