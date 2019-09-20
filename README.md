@@ -3,7 +3,7 @@
 
 ## IT/
 
-Nella directory IT/, la versione ipertestuale del Reg. UE 679/2016 ("GDPR") e dei considerando. Niente JavaScript, niente cookie.
+Nella directory IT/, la versione ipertestuale  (html) del Reg. UE 679/2016 ("GDPR") e dei considerando. Niente JavaScript, niente cookie. Tutto in un unico file che funziona dovunque e con qualsiasi browser.
 
 Da usare con pandoc e il css fornito.
 
@@ -16,7 +16,5 @@ Meant to be used with `pandoc` and the file `679.css` stylesheet.
 ## Copyright
 
 ©2018 W. Vannini CC-BY-NC
-
-
 
 
